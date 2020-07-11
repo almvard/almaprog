@@ -1,0 +1,2 @@
+/Users/almacederblad/CLionProjects/almaprog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/almacederblad/CLionProjects/almaprog/cmake-build-debug/CMakeFiles/edit_cache.dir
